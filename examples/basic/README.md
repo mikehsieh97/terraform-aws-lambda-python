@@ -27,3 +27,10 @@ $ curl -X POST -d pong <api_gateway>
 
 "pong"
 ```
+
+## set up local virtual env
+
+```
+cd ../../
+python3 -m venv venv
+```
